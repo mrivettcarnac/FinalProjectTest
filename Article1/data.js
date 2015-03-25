@@ -225,5 +225,5 @@ var rawDataIMR = {
 			    "DATE": "2013-01-01",
 			    "VALUE": 77.6
 			}
-	]//End of options
-}; //End of rawDataIMR structured as an array of arrays 
+	]//End of options.
+}; //End of rawDataIMR structured as an array of arrays.
