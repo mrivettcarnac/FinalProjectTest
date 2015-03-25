@@ -1,6 +1,6 @@
 # infantMortalityRateMali
 
-DESIGN RATIONALE:
+DESIGN RATIONALE
 
 This column chart visualizes yearly infant mortality rates in Mali since 1960. It also includes a reference line, the global infant mortality rate average as of 2013. 
 
@@ -9,7 +9,7 @@ I chose a column chart because the infant mortality rate’s absolute value is t
 The addition of the world average line helps put the data into perspective. Without this information, the viewer would have no way of judging Mali’s infant mortality rate.
 
 
-DATA VARIABLES:
+DATA VARIABLES
 
 rawDataIMR = The raw data on infant mortality rates in Mali, sourced from the St. Louis FRED at the following URL: https://research.stlouisfed.org/fred2/series/SPDYNIMRTINMLI
 
@@ -32,7 +32,7 @@ IMRSpecs = The design and specs of the IMRchart. It is referenced in the final b
 IMRchart = The final chart with data and options that will be called upon in the div section of the html.
 
 
-STYLE VARIABLES:
+STYLE VARIABLES
 
 vAxisGridLineStyle = This sets the number of grid lines that run perpendicular to the vAxis, 5, and their color, grey.
 
